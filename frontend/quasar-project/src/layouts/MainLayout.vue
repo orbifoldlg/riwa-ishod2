@@ -12,10 +12,9 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+       
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
@@ -51,10 +50,10 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
   {
-    title: 'Docs',
-    caption: 'quasar.dev',
+    title: 'KvizPage',
+    caption: 'quasar.KvizPage',
     icon: 'school',
-    link: 'https://quasar.dev'
+    link: '/test'
   },
   {
     title: 'Github',
