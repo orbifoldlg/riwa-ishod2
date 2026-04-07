@@ -11,9 +11,7 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title>
-       
-        </q-toolbar-title>
+        
 
       </q-toolbar>
     </q-header>
